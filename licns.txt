@@ -1,3 +1,3 @@
-status=يس
+status=valid
 expiry=2025-9-31
 message= valid/expired
